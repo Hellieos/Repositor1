@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(5, 81, 25);
+}
+#h2 {
+  color: rgba(6, 23, 154, 0.703);
+}
+.paragraph {
+  color: green;
+}
+.second-paragraph {
+  color: blueviolet;
+}
