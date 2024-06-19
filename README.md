@@ -1,1 +1,1 @@
-# Repositor1 is a collection of files presenting the tasks for the QA manual course. Essentialy, just practising to use GIT repositor and learning how it works.
+# Repositor1 is a collection of files presenting the tasks for the QA Manual course. Essentially, just practicing using the GIT repository and learning how it works.
